@@ -12,4 +12,8 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-Description closes #2
+Description 
+
+closes #2
+
+Theme minima:
